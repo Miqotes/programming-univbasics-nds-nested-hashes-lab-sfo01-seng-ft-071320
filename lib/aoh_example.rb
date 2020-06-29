@@ -16,7 +16,7 @@ end
 
 def literal_aoh
   [
-    
+    { name:  "Don Gately", occupation: "Live-in Staff" }.sort
   ]
 end
 
